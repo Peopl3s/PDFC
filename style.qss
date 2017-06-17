@@ -1,0 +1,24 @@
+QPushButton {
+ color:black;
+ padding: 10px 20px;
+ width:200px;
+ text-decoration:none;
+ text-align:center;
+ margin:20px auto;
+ background-image: linear-gradient(to left,transparent,transparent 50%,#00c6ff 50%,#00c6ff);
+ background-position: 100% 0;
+ font: 400 18px tahoma;
+ border: 1px solid #00C6FF;
+}
+QPushButton:hover {
+background-color:#00c6ff;
+color:#fff;
+}
+
+QProgressBar {
+   
+    text-align: center;
+}
+QProgressBar::chunk {
+    background-color: #05B8CC;
+}
