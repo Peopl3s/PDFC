@@ -2,4 +2,4 @@
 ![][logo]
 
 [logo]: PDFC.JPG "Logo text"
-Convert doc/doxc files in PDF or ODF format
+Convert doc/docx files to PDF or ODF format
